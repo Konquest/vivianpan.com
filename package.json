@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "vivianpan.com",
   "version": "0.0.0",
   "description": "Vivian's site",
   "engines": {
